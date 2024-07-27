@@ -1,0 +1,1 @@
+Удалить C:\User\Username/.ssh/known_hosts
